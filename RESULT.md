@@ -3,7 +3,7 @@
 - Slug: u-ricoxyz-break-production-own-it-be78a994
 - Bounty: https://make.fun/c/u-ricoxyz-break-production-own-it-be78a994
 - Repo: https://github.com/Biose-dot/u-ricoxyz-break-production-own-it-be78a994
-- Commit SHA: 394af71814db4166fd2467309f93d0ddbe40234e
+- Entry commit SHA (main.py + README + LICENSE): 394af71814db4166fd2467309f93d0ddbe40234e (RESULT.md itself was committed in a follow-up commit; use repo HEAD for submission)
 - Branch: master
 - Entry (149 chars, under 200, single line):
   > ERROR 500: I deleted prod to test the backup. The backup was a screenshot of prod. The rollback plan is this error message. I have updated my resume.
